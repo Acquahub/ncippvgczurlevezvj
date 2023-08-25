@@ -1,0 +1,32 @@
+.Screen1{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box; 
+background-color: #FFFFFF;flex-direction: column;justify-content: center;
+align-items: center;
+}
+.text-1-dc670a37e6294758b95a29017d426244{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 44px;
+
+
+margin-top: 16px;
+box-sizing: border-box;
+background: linear-gradient(103deg, #ff0036 0%, #ff9116 50%, #fe19fe 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+height: fit-content;
+width: fit-content;
+    
+}
+.imageview-1-3ee41782c3df43b68d6721b3911929cb{
+    object-fit: contain;
+    
+margin-top: 16px;
+box-sizing: border-box;
+height: 178.40164362866858px;min-height: 178.40164362866858px;
+width: 179.88200948174926px;min-width: 179.88200948174926px;
+    
+}

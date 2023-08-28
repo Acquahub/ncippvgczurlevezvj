@@ -15,7 +15,7 @@ function Screen2() {
     return(
         <div className={styles["Screen2"]}>
             
-<Link href="/Screen1">
+<Link href="/screen1">
 <div className={""}>
     <div id="text-2-857fd81516f24eb3809bd9891f1838af" className={styles["text-2-857fd81516f24eb3809bd9891f1838af"]} >
         Have a nice day

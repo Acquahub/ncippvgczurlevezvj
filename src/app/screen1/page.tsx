@@ -25,7 +25,7 @@ function Screen1() {
         Hello
     </div>
 </div>
-<Link href="/Screen2"><div className={styles["imageview-1-3ee41782c3df43b68d6721b3911929cb"]}  >
+<Link href="/screen2"><div className={styles["imageview-1-3ee41782c3df43b68d6721b3911929cb"]}  >
     <Image id="imageview-1-3ee41782c3df43b68d6721b3911929cb" style={{ objectFit: 'contain' }} fill={true} alt="imageview-1" src='/assets/real.png' />
 </div></Link>
         </div>
